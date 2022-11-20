@@ -29,6 +29,14 @@
 
 <hr/>
 
+<div align="center">
+    <a href="https://github.com/DataLab-IFPB/IncendioFlorestal-Mobile">
+    <img height="120em" src="https://github-readme-stats-multiuser.vercel.app/api/pin/?username=DataLab-IFPB&repo=IncendioFlorestal-Mobile&theme=algolia&show_owner=true"/>
+   </a>
+</div>
+
+<hr/>
+
 <div align="left">
   <a href="https://www.youtube.com/channel/UC-VmJYFeXjBLvqeVwfOo4qQ"> <img alt="Canal no YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC-VmJYFeXjBLvqeVwfOo4qQ?style=for-the-badge&logo=youtube">
   <a href="https://github.com/BrandonLogandi"> <img alt="Conta Pessoal" src="https://img.shields.io/badge/-Github%20Pessoal-black?style=for-the-badge&logo=github">
